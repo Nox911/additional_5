@@ -16,4 +16,3 @@ for ( var i=1;i<temp.length;i++) {
 // Check our new array(temp):
 return (temp.length>0)?false:true;
 }
-
